@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on eCommers, a online store allows to buy and sell building materials.
 - 🌱 I’m currently learning Node.js as backend development stack.
 - 💬 Ask me about React, Typescript, Angular.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sadullo-buriev/) or via my [portfolio](https://www.sadullo.uz/).
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sadullo-buriev/) or via my [website](https://www.sadullo.uz/).
 - ⚡ Fun fact: I play football in my free times.
 
 <h5 align="left">Languages and Tools:</h5>
