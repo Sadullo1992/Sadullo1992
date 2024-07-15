@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I'm Sadullo, a passionate Frontend developer from Uzbekistan.
+#### I'm Sadullo, a passionate Fullsatack developer.
 
-- 🔭 I’m currently working on eCommers, a online store allows to buy and sell building materials.
-- 🌱 I’m currently learning Node.js as backend development stack.
-- 💬 Ask me about React, Typescript, Angular.
+- 🔭 I’m currently working on Newspaper website, which is allow to provide daily hot news.
+- 🌱 I’m currently learning AWS.
+- 💬 Ask me about React, Node.js, Typescript, Angular.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sadullo-buriev/) or via my [website](https://www.sadullo.uz/).
 - ⚡ Fun fact: I play football in my free times.
 
