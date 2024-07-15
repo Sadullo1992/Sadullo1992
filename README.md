@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Sadullo, a passionate Fullsatack developer.
+#### I'm Sadullo, a passionate Fullstack developer.
 
 - 🔭 I’m currently working on Newspaper website, which is allow to provide daily hot news.
 - 🌱 I’m currently learning AWS.
